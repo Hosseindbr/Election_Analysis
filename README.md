@@ -20,5 +20,5 @@ The aim of this project was helping election commission to complete the election
     - Charles Casper Stockham received 85,213, which was 23% of total votes
     - Diana DeGette received 272,892, which was 73.8% of total votes
     - Raymon Anthony Doane received 11,606 votes, which was 3.1% of total votes.
-**Diana DeGette who received 73.8% of total votes is the winner of the election 
+** Diana DeGette who received 73.8% of total votes is the winner of the election 
 
